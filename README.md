@@ -23,6 +23,15 @@ Si utiliza este repositorio, cítelo de la siguiente manera:
 }
 
 ``` 
+
+## ⚙️ Cómo reproducir
+
+Ejecuta el script para calcular y graficar los resultados:
+
+```bash
+python rd9_entropy_window.py --theta 0.33 --gamma 0.16 --beta 0.34 --grid --outdir .
+
+
 APA
 González Romero, M., & García Carnicero, T. (2025). Un método de entropía ponderada RD9 para mejorar la Conjetura de Frankl: conjuntos cerrados por unión. (Versión v1.0.3). Zenodo. https://doi.org/10.5281/zenodo.16884633
 
