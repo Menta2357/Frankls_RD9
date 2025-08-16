@@ -30,6 +30,7 @@ Ejecuta el script para calcular y graficar los resultados:
 
 ```bash
 python rd9_entropy_window.py --theta 0.33 --gamma 0.16 --beta 0.34 --grid --outdir .
+
 ``` 
 
 APA
