@@ -32,6 +32,13 @@ Ejecuta el script para calcular y graficar los resultados:
 python rd9_entropy_window.py --theta 0.33 --gamma 0.16 --beta 0.34 --grid --outdir .
 
 ``` 
+Esto generará:
+
+Delta_shape.png: curva de Δ(p) con p_max.
+
+alpha_max_window_vs_beta.png: gráfico de α_max vs β.
+
+Archivos CSV con valores numéricos.
 
 APA
 González Romero, M., & García Carnicero, T. (2025). Un método de entropía ponderada RD9 para mejorar la Conjetura de Frankl: conjuntos cerrados por unión. (Versión v1.0.3). Zenodo. https://doi.org/10.5281/zenodo.16884633
