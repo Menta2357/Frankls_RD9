@@ -1,15 +1,15 @@
 # Frankls_RD9
 
 Método entrópico ponderado RD₉ para la Conjetura de Frankl.  
-LaTeX preprint, figuras y código Python reproducible.  
+Preimpresión LaTeX, figuras y código Python reproducible.  
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16884633.svg)](https://doi.org/10.5281/zenodo.16884633)
 
 ---
 
-## 📑 Citation
+## 📑 Cita
 
-If you use this repository, please cite it as follows:
+Si utiliza este repositorio, cítelo de la siguiente manera:
 
 **BibTeX**
 ```bibtex
@@ -21,19 +21,20 @@ If you use this repository, please cite it as follows:
   url     = {https://doi.org/10.5281/zenodo.16884633},
   note    = {GitHub repository and Zenodo archived release}
 }
+
 ``` 
 APA
-González Romero, M., & García Carnicero, T. (2025). An RD9--Weighted Entropy Method for Improving Frankl's Union--Closed Sets Bound (Version v1.0.3). Zenodo. https://doi.org/10.5281/zenodo.16884633
+González Romero, M., & García Carnicero, T. (2025). Un método de entropía ponderada RD9 para mejorar la Conjetura de Frankl: conjuntos cerrados por unión. (Versión v1.0.3). Zenodo. https://doi.org/10.5281/zenodo.16884633
 
 IEEE
-M. González Romero and T. García Carnicero, An RD9--Weighted Entropy Method for Improving Frankl's Union--Closed Sets Bound, Zenodo, Version v1.0.3, 2025. doi: 10.5281/zenodo.16884633.
+M. González Romero y T. García Carnicero, Un método de entropía ponderada RD9 para mejorar la Conjetura de Frankl: conjuntos cerrados por unión, Zenodo, Versión v1.0.3, 2025. doi: 10.5281/zenodo.16884633.
 
-📜 License & Copyright
+📜 Licencia y derechos de autor
 
-© 2025 Mauro González Romero and Tamara García Carnicero.
+© 2025 Mauro González Romero y Tamara García Carnicero.
 
-Code: Licensed under the MIT License.
-You are free to use, modify, and distribute the source code under MIT conditions.
+Código: Licenciado bajo la Licencia MIT.
+Puede usar, modificar y distribuir libremente el código bajo las condiciones del MIT.
 
-Paper (LaTeX, PDF) and Figures: Licensed under CC BY-NC-ND 4.0 International.
-You may share this work with attribution, but no commercial use and no derivatives are permitted.
+Artículo (LaTeX, PDF) y Figuras: Licenciados bajo CC BY-NC-ND 4.0 International.
+Puede compartir esta obra con atribución, pero no se permite su uso comercial ni sus derivados.
