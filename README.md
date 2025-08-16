@@ -20,7 +20,8 @@ If you use this repository, please cite it as follows:
   doi     = {10.5281/zenodo.16884633},
   url     = {https://doi.org/10.5281/zenodo.16884633},
   note    = {GitHub repository and Zenodo archived release}
-}```
+}
+``` 
 APA
 González Romero, M., & García Carnicero, T. (2025). An RD9--Weighted Entropy Method for Improving Frankl's Union--Closed Sets Bound (Version v1.0.3). Zenodo. https://doi.org/10.5281/zenodo.16884633
 
